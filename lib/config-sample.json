@@ -1,0 +1,18 @@
+{
+  "daemon":{
+    "title": "Daemon SDS",
+    "listen_port": 4676,
+    "apiKey":"please change me"
+  },
+  "mysql":{
+    "host": "please change me",
+    "database": "please change me",
+    "user": "please change me",
+    "password": "",
+    "selective_max_statement_time": 0
+  },
+  "randomSD":{
+    "isat_stock_free": 0, 
+    "isat_ref_type_id": 0,
+  }
+}

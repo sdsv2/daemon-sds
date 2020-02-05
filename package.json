@@ -1,0 +1,21 @@
+{
+  "name": "daemon-sds",
+  "version": "1.0.0",
+  "description": "Core Daemon SDS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.kodesumber.com:sds/daemon-sds.git"
+  },
+  "author": "Arif Suwadji",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.7.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0"
+  }
+}
